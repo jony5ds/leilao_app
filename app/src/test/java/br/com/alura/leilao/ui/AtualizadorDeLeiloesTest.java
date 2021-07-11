@@ -24,8 +24,7 @@ import static org.mockito.Mockito.*;
 
 @RunWith(MockitoJUnitRunner.class)
 public class AtualizadorDeLeiloesTest {
-    @Mock
-    private Context context;
+
     @Mock
     private ListaLeilaoAdapter adapter;
     @Mock
